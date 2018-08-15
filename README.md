@@ -59,4 +59,3 @@ You are free to take my `.tex` file and modify it to create your own resume. Ple
 
 
 Good luck!
-# CV-Mohamed-Ali-BEN-FREDJ
