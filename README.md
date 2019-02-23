@@ -1,4 +1,4 @@
-<h1 align="center">
+﻿<h1 align="center">
   <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
     <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
   </a>
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="left">
-  This is Mohamed Ali BEN FREDJ CV generated using LaTeX technology <a href="https://github.com/dalyBlog/CV-Mohamed-Ali-BEN-FREDJ">click here</a> to view my CV.<br> I have used Awesome CV Latex Template to build it .
+  This is Mohamed Ali BEN FREDJ CV generated using LaTeX technology <a  href="https://github.com/dalyBlog/CV-Mohamed-Ali-BEN-FREDJ">click here</a> to view my CV.<br> I have used Awesome CV Latex Template to build it .
 </p>
 
 
